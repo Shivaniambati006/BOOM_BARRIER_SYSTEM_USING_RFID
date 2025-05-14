@@ -29,7 +29,7 @@ This was my **first hardware project** in my subject **FSSI (Foundation Skills i
 
 ---
 
-## 🔌 Circuit + Code: How to Run It
+## 🔌 Circuits : 
 
 ### 🖼️ Circuit
 
